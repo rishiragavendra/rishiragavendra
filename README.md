@@ -1,3 +1,5 @@
+
+![Rishi Ragavendra Banner](./banner.png)
 # Hey, I'm Rishi Ragavendra R 👋
 
 ### Cybersecurity | Full-Stack Engineering | AI/ML | FinTech
